@@ -1,8 +1,8 @@
 # 👋 Olá, eu sou Gabriel Machado
 
-## 💻 Desenvolvedor Fullstack | 🧠 Entusiasta em UX | 🚀 Empreendedor Digital
+## 💻 Desenvolvedor Fullstack | 🧠 Entusiasta em UX 
 
-Sou um apaixonado por tecnologia com experiência sólida em desenvolvimento de aplicações web e mobile. Atuo como desenvolvedor fullstack, combinando lógica, performance e um olhar cuidadoso para a experiência do usuário. Também lidero projetos como empreendedor, buscando sempre soluções que gerem impacto real.
+-
 
 ---
 
@@ -47,11 +47,11 @@ Sou um apaixonado por tecnologia com experiência sólida em desenvolvimento de 
 
 ## ✨ Um pouco mais sobre mim
 
-- 🔧 Criador da **BENG**, empresa de soluções digitais (sites, automações e sistemas).
-- 🧠 Curioso por natureza, apaixonado por aprender novas tecnologias.
-- ❤️ Acredito que tecnologia de verdade é aquela que **resolve problemas**.
-- ⏳ Sempre em evolução, um commit de cada vez.
+- 🔧 -
+- 🧠 -
+- ❤️ -
+- ⏳ -
 
 ---
 
-> _"Transformar ideias em soluções reais é o que me move."_
+> _"----"_
